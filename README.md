@@ -4,7 +4,7 @@ Esse projeto é um aplicativo Android Nativo desenvolvido com a linguagem de pro
 <br><br>
 Aplicativo desenvolvido em aula da Mentoria Dev Android - Jamilton Damasceno
 
-## :camera_flash: Screen shot
+## :camera_flash: Screenshot
 
 
 <img src="https://github.com/user-attachments/assets/72576454-fa55-46cc-b7dc-869525382ab8" width="260">
