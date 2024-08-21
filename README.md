@@ -1,4 +1,4 @@
-# Tabela de Produtos - DevSpace
+# Tabela de Produtos - Mentoria Dev Android - Jamilton Damasceno
 
 Esse projeto é um aplicativo Android Nativo desenvolvido com a linguagem de programação Kotlin, tem como principal funcionalidade, registrar produtos, Atualizar, Deletar e exibir o conteúdo armazenado em uma view com o ID e o nome cadastrado em uma TextView
 <br><br>
